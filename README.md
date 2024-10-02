@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Farras Yuslih</h1>
-<h3 align="center">A Data and AI/ML Enthusiast from Lampung, Indonesia</h3>
+<h3 align="center">A Data and AI/ML Enthusiast from Bogor, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farrasyuslih&label=Profile%20views&color=0e75b6&style=flat" alt="farrasyuslih" /> </p>
 
